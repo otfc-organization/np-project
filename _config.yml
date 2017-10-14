@@ -18,8 +18,8 @@ email: "dgiovagnoli345@gmail.com"
 description: "We offer amazing tours of our beautiful parks."
  # this means to ignore newlines until "baseurl:"
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://otfc-organization.github.io/np-project/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/np-project" # the subpath of your site, e.g. /blog
+url: "https://otfc-organization.github.io/np-project/" # the base hostname & protocol for your site, e.g. http://127.0.0.1:4000/
 twitter_username: jekyllrb
 github_username:  jekyll
 
