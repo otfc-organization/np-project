@@ -1,0 +1,527 @@
+.section {
+  padding-top: 54px;
+  padding-bottom: 15px;
+}
+
+.section:hover {
+  border-bottom-color: #000;
+}
+
+.column-2 {
+  text-align: left;
+}
+
+.button {
+  margin-top: 15px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  border: 2px solid #000;
+  background-color: transparent;
+  font-family: Montserrat, sans-serif;
+  color: #000;
+  font-weight: 600;
+  text-align: left;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.row {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+.nav-link {
+  float: none;
+  border-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: transparent;
+  direction: ltr;
+  font-family: Montserrat, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.nav-link:hover {
+  border-bottom: 1px none transparent;
+  color: rgba(51, 51, 51, .5);
+}
+
+.nav-link:active {
+  border-bottom-style: solid;
+  border-bottom-color: #000;
+  color: #333;
+}
+
+.nav-link:focus {
+  border-style: none;
+  border-color: #000;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-left-width: 1px;
+  color: rgba(51, 51, 51, .5);
+}
+
+.section-2 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #666;
+}
+
+.container-3 {
+  border-top: 3px solid #e9e9e9;
+}
+
+.div-block-2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px 30px 30px;
+  border-top: 3px solid #e9e9e9;
+  background-color: dimgrey;
+  color: #fff;
+}
+
+.section-3 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: transparent;
+  background-image: url('../images/fRoadtrip-2012--42.JPG');
+  background-position: 50% 33%;
+  background-size: cover;
+}
+
+.row-2 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.heading {
+  padding-right: 0px;
+  padding-left: 0px;
+  font-family: Montserrat, sans-serif;
+  font-size: 24px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.heading.heading-featured {
+  text-align: center;
+}
+
+.paragraph {
+  color: hsla(0, 0%, 100%, .5);
+}
+
+.button-2 {
+  background-color: rgba(0, 0, 0, .37);
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.button-2:hover {
+  background-color: #000;
+}
+
+.featured-service-item {
+  padding: 10px;
+  background-color: transparent;
+}
+
+.featured-service-item-inside {
+  padding: 30px;
+  background-color: #f5f5f5;
+}
+
+.featured-service-item-inside:hover {
+  background-color: rgba(51, 51, 51, .8);
+  box-shadow: inset 0 0 8px 0 #000;
+  color: #fff;
+}
+
+.heading-2 {
+  font-family: Montserrat, sans-serif;
+  text-transform: uppercase;
+}
+
+.section-4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.section-5 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f8f8f8;
+  background-image: url('../images/whirlpool.png');
+  background-position: 0px 0px;
+}
+
+.section-6 {
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .66), rgba(0, 0, 0, .66)), url('../images/fRoadtrip-2012--40.JPG');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .66), rgba(0, 0, 0, .66)), url('../images/fRoadtrip-2012--40.JPG');
+  background-position: 0px 0px, 0px -112px;
+  background-size: auto, 1824px;
+}
+
+.slide {
+  background-color: transparent;
+}
+
+.slider {
+  background-color: transparent;
+}
+
+.paragraph-2 {
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 200;
+  text-align: center;
+}
+
+.div-block-9 {
+  padding: 115px 104px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+}
+
+.container-4 {
+  padding-bottom: 20px;
+}
+
+.text-block {
+  font-size: 18px;
+}
+
+.section-7 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #333;
+  color: hsla(0, 0%, 100%, .71);
+}
+
+.column-5 {
+  padding-left: 10px;
+}
+
+.text-block-2 {
+  padding-top: 0px;
+  font-family: Montserrat, sans-serif;
+  color: rgba(51, 51, 51, .69);
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.heading-3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Montserrat, sans-serif;
+  font-size: 24px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.section-8 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f6f6f6;
+}
+
+.column-6 {
+  text-align: right;
+}
+
+.text-block-3 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.bold-text {
+  color: rgba(51, 51, 51, .6);
+}
+
+.container-5 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.button-3 {
+  margin-bottom: 0px;
+  padding-right: 85px;
+  padding-left: 85px;
+  background-color: rgba(51, 51, 51, .63);
+  font-family: Montserrat, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.button-3:hover {
+  background-color: #000;
+}
+
+.body {
+  color: #333;
+}
+
+.div-block-10 {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  background-color: #f6f6f6;
+}
+
+.heading-4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: Montserrat, sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.paragraph-3 {
+  margin-bottom: 0px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+.column-7 {
+  left: 0px;
+  top: 0px;
+  right: 0px;
+}
+
+.column-8 {
+  position: relative;
+  z-index: 1;
+}
+
+.heading-5 {
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, .5);
+  font-family: Montserrat, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.paragraph-4 {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.paragraph-5 {
+  padding-top: 0px;
+}
+
+.tab-pane {
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, .22);
+}
+
+.column-9 {
+  text-align: center;
+}
+
+.column-10 {
+  text-align: center;
+}
+
+.navbar-2 {
+  background-color: transparent;
+}
+
+.dropdown-toggle {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.dropdown-toggle:hover {
+  color: rgba(51, 51, 51, .5);
+}
+
+.container-6 {
+  text-align: left;
+}
+
+.nav-menu-2 {
+  float: left;
+}
+
+.text-block-4 {
+  font-family: Montserrat, sans-serif;
+  text-transform: uppercase;
+}
+
+.text-block-5 {
+  font-family: Montserrat, sans-serif;
+  text-transform: uppercase;
+}
+
+.text-block-6 {
+  font-family: Montserrat, sans-serif;
+  text-transform: uppercase;
+}
+
+.section-9 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+@media (max-width: 991px) {
+  .nav-link {
+    z-index: 99;
+  }
+  .container-3 {
+    direction: ltr;
+    text-align: right;
+  }
+  .button-3 {
+    padding-right: 73px;
+  }
+  .heading-5 {
+    padding-left: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .section-5 {
+    text-align: center;
+  }
+  .section-7 {
+    text-align: center;
+  }
+  .text-block-2 {
+    text-align: center;
+  }
+  .heading-3 {
+    text-align: center;
+  }
+  .text-block-3 {
+    text-align: center;
+  }
+  .button-3 {
+    text-align: center;
+  }
+  .column-7 {
+    text-align: center;
+  }
+  .heading-5 {
+    text-align: center;
+  }
+  .paragraph-4 {
+    text-align: center;
+  }
+  .list-item {
+    padding-right: 30px;
+    list-style-type: none;
+  }
+  .list-item-2 {
+    padding-right: 30px;
+    list-style-type: none;
+  }
+  .list-item-3 {
+    padding-right: 30px;
+    list-style-type: none;
+  }
+  .list-item-4 {
+    padding-right: 30px;
+    list-style-type: none;
+  }
+  .list-item-5 {
+    padding-right: 30px;
+    list-style-type: none;
+  }
+  .list-item-6 {
+    padding-right: 30px;
+    list-style-type: none;
+  }
+  .div-block-12 {
+    text-align: center;
+  }
+  .image-2 {
+    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 479px) {
+  .paragraph-2 {
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 14px;
+  }
+  .section-7 {
+    text-align: center;
+  }
+  .text-block-2 {
+    text-align: center;
+  }
+  .heading-3 {
+    text-align: center;
+  }
+  .column-11 {
+    text-align: center;
+  }
+  .column-12 {
+    text-align: center;
+  }
+  .column-13 {
+    text-align: center;
+  }
+  .column-14 {
+    text-align: center;
+  }
+  .list-item {
+    padding-right: 30px;
+    list-style-type: none;
+  }
+  .list-item-2 {
+    padding-right: 30px;
+    text-transform: none;
+    list-style-type: none;
+  }
+  .list-item-3 {
+    padding-right: 30px;
+    list-style-type: none;
+  }
+  .list-item-4 {
+    padding-right: 30px;
+    text-transform: none;
+    list-style-type: none;
+  }
+  .list-item-5 {
+    padding-right: 30px;
+    text-transform: none;
+    list-style-type: none;
+  }
+  .list-item-6 {
+    padding-right: 30px;
+    padding-left: 0px;
+    list-style-type: none;
+  }
+}
